@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://garfieldscripts.xyz/ui-libs/janlib.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SeasonalKirito/UI-Hub/main/src/Jan%20Lib/source.lua'))()
 -- [Legit Tab UI] ------------------------------------------------------------------------------------------------------------------------------------------------------------
 local LegitTab = library:AddTab("Legit"); 
 local LegitColunm1 = LegitTab:AddColumn();
