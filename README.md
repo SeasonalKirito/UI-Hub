@@ -16,6 +16,6 @@
     </tr>
     <tr>
         <td><img src="https://github.com/SeasonalKirito/UI-Hub/blob/main/images/Fluent/1.png?raw=true" style="width:auto; height:auto;"></td>
-        <td><img src="https://github.com/SeasonalKirito/UI-Hub/blob/main/images/fluent/2.png?raw=true" style="width:auto; height:auto;"></td>
+        <td><img src="https://github.com/SeasonalKirito/UI-Hub/blob/main/images/Fluent/2.png?raw=true" style="width:auto; height:auto;"></td>
     </tr>
 </table>
