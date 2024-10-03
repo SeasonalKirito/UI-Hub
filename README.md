@@ -1,5 +1,5 @@
 ![Banner](https://github.com/SeasonalKirito/UI-Hub/blob/main/images/banner.png?raw=true)
-**HEAVILY INSPIRED BY [Weakhoes UI-Libs Repo](https://github.com/weakhoes/Roblox-UI-Libs)**
+<p align="center"><strong>HEAVILY INSPIRED BY <a href="https://github.com/weakhoes/Roblox-UI-Libs">Weakhoes UI-Libs Repo</a></strong></p>
 
 <table>
     <tr>
