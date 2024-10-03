@@ -1,4 +1,4 @@
-![Banner](https://github.com/SeasonalKirito/UI-Hub/blob/main/images/banner.png?raw=true)
+![Banner](https://github.com/SeasonalKirito/UI-Hub/blob/main/images/banner2.png?raw=true)
 
 <table>
     <tr>
